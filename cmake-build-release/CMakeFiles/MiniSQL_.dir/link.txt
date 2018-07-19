@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2018.1.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\MiniSQL_.dir/objects.a
+E:\CLion\mingw64\bin\ar.exe cr CMakeFiles\MiniSQL_.dir/objects.a @CMakeFiles\MiniSQL_.dir\objects1.rsp
+E:\CLion\mingw64\bin\g++.exe -O3 -DNDEBUG   -Wl,--whole-archive CMakeFiles\MiniSQL_.dir/objects.a -Wl,--no-whole-archive  -o MiniSQL_.exe -Wl,--out-implib,libMiniSQL_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MiniSQL_.dir\linklibs.rsp

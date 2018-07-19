@@ -1,0 +1,33 @@
+create table student(
+sno char ( 8 ),
+sname char ( 16 ) unique,
+sage int,
+sgender char ( 1 ),
+primary key ( sno )
+);
+
+insert into student values('12345678','wy',22,'M');
+insert into student values('22345678','wy',22,'M');
+insert into student values('12345678','wyl',22,'M');
+insert into student values('22345678','wyf',22,'M');
+insert into student values('32345678','wyq',22,'M');
+insert into student values('42345678','wyw',46,'F');
+insert into student values('52345678','wye',58,'F');
+insert into student values('62345678','wyr',73,'F');
+insert into student values('72345678','wyt',36,'M');
+insert into student values('82345678','wyy',15,'F');
+insert into student values('92345678','wyu',66,'M');
+insert into student values('91345678','wyi',75,'M');
+insert into student values('92445678','wyo',96,'F');
+insert into student values('93345678','wyp',106,'F');
+insert into student values('94345678','wya',88,'F');
+insert into student values('95345678','fdbfbdd',5,'M');
+insert into student values('96345678','s',10,'M');
+insert into student values('97345678','dsvsdv',320,'F');
+insert into student values('98345678','wys',110,'F');
+insert into student values('99345678','wyd',250,'F');
+insert into student values('99445678','wyg',175,'M');
+insert into student values('99545678','swj',175,'M');
+insert into student values('99645678','swjj',175,'M');
+
+create index test on student(sname);

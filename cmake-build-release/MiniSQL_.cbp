@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MiniSQL_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MiniSQL_">
+				<Option output="C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/MiniSQL_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Lenovo/Desktop/MiniSQL-final/."/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include-fixed"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 MiniSQL_"/>
+					<CompileFile command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MiniSQL_/fast">
+				<Option output="C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/MiniSQL_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Lenovo/Desktop/MiniSQL-final/."/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include-fixed"/>
+					<Add directory="E:/CLion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 MiniSQL_/fast"/>
+					<CompileFile command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/API.cpp">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/API.h">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/BufferManager.cpp">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/BufferManager.h">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/BxTree.cpp">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/BxTree.h">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/CatalogManager.cpp">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/CatalogManager.h">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/IndexManager.cpp">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/IndexManager.h">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/Interpreter.cpp">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/Interpreter.h">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/MyClass.cpp">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/MyClass.h">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/RecordManager.cpp">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/RecordManager.h">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/main.cpp">
+			<Option target="MiniSQL_"/>
+		</Unit>
+		<Unit filename="C:/Users/Lenovo/Desktop/MiniSQL-final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

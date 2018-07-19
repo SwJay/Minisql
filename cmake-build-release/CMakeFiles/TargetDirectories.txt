@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/CMakeFiles/MiniSQL_.dir
+C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/MiniSQL-final/cmake-build-release/CMakeFiles/rebuild_cache.dir
